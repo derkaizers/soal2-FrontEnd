@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  color: wheat;
+  background: url('./image/messi.jpg')
+  
+}
+h1,button,h4,{
+  color: whitesmoke;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+img{
+  width: 300px;
+  height: 300px;
+}
+.panel-heading {
+ color: navy;
+ 
+}
+.panel-body {
+  background-color: brown;
+}
